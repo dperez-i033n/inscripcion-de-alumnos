@@ -62,6 +62,8 @@ if(validarDatos(2,2)) {
   console.log('Error en data, proceso de inscripcion suspendido');
 }
 
+console.log("Ejecucion Finalizada")
+
 /*import {jornadas,carrerasTecnicas} from './db/information'
 
 
